@@ -2,7 +2,7 @@
 
 Computer Organization and Operating System Assignment (Chapter: Code Development, Sec: 3)
 
- - [112 Scripting](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [112 Scripting](https://github.com/65070153-Pitchayadit-Wasinanon/CodeDevelopment-3/tree/f61a5e386f9b604cb31fbebcf1fd30f3ac5a3de6/112%20Scripting)
  - [Interpreter](https://github.com/matiassingers/awesome-readme)
  - [Compiler](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
  - [113 Debugger](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
