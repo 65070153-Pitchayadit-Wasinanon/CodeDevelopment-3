@@ -223,7 +223,11 @@ IDE หรือ Integrated development enviroment คือ Software สำเ�
       sudo ./Apache-NetBeans-14-bin-linux-x64.sh
       ```
       <br>
-      
+
+   ตัวอย่าง Netbeans IDE (Debian) :
+   <br>
+
+   <img src='https://linux.how2shout.com/wp-content/uploads/2022/01/Apache-Launch-NetBeans-on-Debian-11.png' width='900' height='640'>
 
 
       
@@ -240,14 +244,14 @@ IDE หรือ Integrated development enviroment คือ Software สำเ�
 
 - GNOME Builder
   - [What is GNOME Builder? & Command Line Download](https://ubunlog.com/th/gnome-builder-ide-proposito-general/#google_vignette)
-  - [ข้อดี Gnome Builder](https://th.linux-console.net/?p=8505)
+  - [ข้อดี Gnome Builder (TH)](https://th.linux-console.net/?p=8505)
   - [Download GNOME Builder](https://wiki.gnome.org/Apps/Builder/Downloads)
   - [Gnome Builder Example Picture](https://i.redd.it/4eq8430ko5971.png)
 <br>
 
 - Eclipse
-  - [Eclipse คืออะไร?](https://www.aosoft.co.th/article/312/Eclipse-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3.html)
-  - [ประโยชน์ของ Eclipse](https://eclipse4sl.org/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%82%E0%B8%AD%E0%B8%87-eclipse-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%AA%E0%B8%B3%E0%B8%AB/)
+  - [Eclipse คืออะไร? (TH)](https://www.aosoft.co.th/article/312/Eclipse-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3.html)
+  - [ประโยชน์ของ Eclipse (TH)](https://eclipse4sl.org/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%82%E0%B8%AD%E0%B8%87-eclipse-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%AA%E0%B8%B3%E0%B8%AB/)
   - [How to Download](https://adamtheautomator.com/how-to-install-eclipse/#Installing_Eclipse_on_Linux)
   - [Eclipse Installer](https://www.eclipse.org/downloads/packages/)
   - [Eclipse Official Site](https://www.eclipse.org/)
@@ -256,4 +260,8 @@ IDE หรือ Integrated development enviroment คือ Software สำเ�
 
 - NetBeans IDE
   - [NetBeans คืออะไร?](https://www.aosoft.co.th/article/316/%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%B1%E0%B8%9A-NetBeans.html)
-  - 
+  - [NetBeans คืออะไร?](https://www.mindphp.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD/73-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3/2239-netbeans-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3.html)
+  - [How to Download (EN) & ข้อดีและประโยชน์ของ NetBeans](https://www.makeuseof.com/how-to-install-netbeans-on-linux/)
+  - [How to Download (TH)](https://www.thaicreate.com/java/java-netbean-ide-windows.html)
+  - [NetBeans IDE Example Picture](https://linux.how2shout.com/wp-content/uploads/2022/01/Apache-Launch-NetBeans-on-Debian-11.png)
+
