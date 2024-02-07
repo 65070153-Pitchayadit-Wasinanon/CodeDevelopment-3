@@ -34,7 +34,7 @@ IDE หรือ Integrated development enviroment คือ Software สำเ�
    
    <br>
    
-   <img src='https://i.redd.it/4eq8430ko5971.png' width='1280' height='720'>
+   <img src='https://i.redd.it/4eq8430ko5971.png' width='1280' height='640'>
 
 <br>
    
@@ -97,7 +97,7 @@ IDE หรือ Integrated development enviroment คือ Software สำเ�
    ตัวอย่าง Eclipse :
    <br>
    
-   <img src='https://storage.googleapis.com/ubuntu-18/images/install-eclipse-ubuntu-18.jpg' width='1280' height='720'>
+   <img src='https://storage.googleapis.com/ubuntu-18/images/install-eclipse-ubuntu-18.jpg' width='1280' height='640'>
 
 <br>
 
@@ -107,6 +107,21 @@ IDE หรือ Integrated development enviroment คือ Software สำเ�
    เป็น Software Open Source โดยเน้นพัฒนาภาษา Java เป็นหลัก แต่ก็สามารถใช้พัฒนาภาษาอื่นได้เช่นกัน โดนจุดเด่นของ Software นี้คือความสามารถในการพัฒนาเป็น modules ได้
 
    <br>
+
+   ข้อดีของ NetBeans IDE :
+   <br>
+
+   - สามารถแยกโปรแกรมเป็น Modules ทำให้พัฒนาได้ง่าย
+   - มีระบบที่สามารถตรวจ Syntax ของ Code
+   - มี Add-on ให้ใช้เพื่อพัฒนาภาษาอื่นนอกจาก Java
+
+   <br>
+
+   การติดตั้ง NetBeans IDE บน Linux (Debian/Ubuntu):
+   <br>
+   
+   1. 
+   
 
    
    
@@ -131,3 +146,8 @@ IDE หรือ Integrated development enviroment คือ Software สำเ�
   - [Eclipse Installer](https://www.eclipse.org/downloads/packages/)
   - [Eclipse Official Site](https://www.eclipse.org/)
   - [Eclipse on Linux Example Picture](https://storage.googleapis.com/ubuntu-18/images/install-eclipse-ubuntu-18.jpg)
+<br>
+
+- NetBeans IDE
+  - [NetBeans คืออะไร?](https://www.aosoft.co.th/article/316/%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%B1%E0%B8%9A-NetBeans.html)
+  - 
