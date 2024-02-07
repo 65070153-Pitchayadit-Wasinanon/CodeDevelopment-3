@@ -2,11 +2,11 @@
 
 IDE หรือ Integrated development enviroment คือ Software สำเร็จรูปที่มีเครื่องมืออำนวยความสะดวกให้ Code Developer ใช้ในการพัฒนา Software ซึ่งหลักๆ จะประกอบด้วย 3 อย่างนี้ คือ Source Code Editor, Build Automation Tools และ Debugger
 
+<br>
 
+## IDE on Linux
 
-### IDE on Linux
-
-1. GNOME builder 
+### 1. GNOME builder 
    <br>
    
    โดย IDE นี้จะเป็น Software Open source ที่ใช้พัฒนา Application หรือ Software ใน Desktop Environment ของ GNOME (GNU Object Model Environment).
@@ -38,7 +38,7 @@ IDE หรือ Integrated development enviroment คือ Software สำเ�
 
 <br>
    
-2. Eclipse
+### 2. Eclipse
    <br>
 
    เป็น Software Open Source ที่สามารถพัฒนาได้หลายภาษา เช่น Java, HTML, C และอื่นๆ โดยจุดเด่นของ Software นี้คือการที่มี plug-in ให้ใช้มากมาย ซึ่งอำนวยความสะดวกต่อ Code Developer เป็นอย่างมาก
@@ -101,7 +101,7 @@ IDE หรือ Integrated development enviroment คือ Software สำเ�
 
 <br>
 
-3. NetBeans IDE
+### 3. NetBeans IDE
    <br>
 
    เป็น Software Open Source โดยเน้นพัฒนาภาษา Java เป็นหลัก แต่ก็สามารถใช้พัฒนาภาษาอื่นได้เช่นกัน โดนจุดเด่นของ Software นี้คือความสามารถในการพัฒนาเป็น modules ได้
@@ -120,9 +120,115 @@ IDE หรือ Integrated development enviroment คือ Software สำเ�
    การติดตั้ง NetBeans IDE บน Linux (Debian/Ubuntu):
    <br>
    
-   1. 
-   
+   1. ติดตั้ง JDK (Java Development Kit)
+      <br>
 
+      ```bash
+      sudo apt install -y openjdk-11-jdk
+      ```
+
+      <br>
+
+   2. หลังจากนั้นให้เช็คว่าเครื่งของคุณติดตั้ง JDK เรียบร้อบหรือไหมโดยคำสั่ง
+      <br>
+
+      ```bash
+      java -version
+      ```
+
+      <br>
+
+   3. เมื่อติดตั้งเรียบร้อยแล้ว ต่อมาก็ใช้คำสั่งนี้เพื่อ Download NetBeans DEB Package
+      <br>
+
+      ```bash
+      wget https://github.com/codelerity/netbeans-installers/releases/download/v16-build1/apache-netbeans_16-1_amd64.deb
+      ```
+
+      <br>
+
+   4. หลังจากนั้นก็ติดตั้ง NetBeans DEB Package
+      <br>
+
+      ```bash
+      sudo dpkg -i apache-netbeans_*_amd64.deb
+      ```
+
+      <br>
+   
+   การติดตั้งผ่าน Linux Installer (สามารถติดตั้งได้กับระบบปฏิบัติการ Linux ส่วนใหญ่)
+   <br>
+
+   1. หากบนเครื่องไม่มี JDK ให้ติดตั้งก่อน
+      <br>
+
+      Debian
+      <br>
+
+      ```bash
+      sudo apt install -y openjdk-11-jdk
+      ```
+
+      <br>
+
+      RHEL
+      <br>
+
+      ```bash
+      sudo yum install java-11-openjdk
+      ```
+
+      <br>
+
+      Arch Linux
+      <br>
+
+      ```bash
+      sudo pacman -S jdk-openjdk
+      ```
+
+      <br>
+
+      openSUSE
+      <br>
+
+      ```bash
+      wget https://download.oracle.com/java/17/latest/jdk-17_linux-x64_bin.rpm
+      sudo rpm -ivh jdk-17_linux-x64_bin.rpm
+      ```
+
+      <br>
+
+   2. Download Installer
+      <br>
+
+      ```bash
+      wget https://archive.apache.org/dist/netbeans/netbeans-installers/14/Apache-NetBeans-14-bin-linux-x64.sh
+      ```
+
+      <br>
+
+   3. ทำให้ Installer เป็น File Executable
+      <br>
+
+      ```bash
+      chmod +x Apache-NetBeans-14-bin-linux-x64.sh
+      ```
+      <br>
+
+   4. Run Installer Script
+      <br>
+
+      ```bash
+      sudo ./Apache-NetBeans-14-bin-linux-x64.sh
+      ```
+      <br>
+      
+
+
+      
+      
+  
    
    
 # Refference
