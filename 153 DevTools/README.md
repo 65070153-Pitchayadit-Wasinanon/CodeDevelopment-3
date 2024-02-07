@@ -6,31 +6,119 @@ IDE หรือ Integrated development enviroment คือ Software สำเ�
 
 ### IDE on Linux
 
-1. GNOME builder
+1. GNOME builder 
+   <br>
+   
    โดย IDE นี้จะเป็น Software Open source ที่ใช้พัฒนา Application หรือ Software ใน Desktop Environment ของ GNOME (GNU Object Model Environment).
+   <br>
+   
    ซึ่งมีข้อดีดังนี้ :
+   <br>
+   
    - มีคีย์ลัดที่สะดวกสะบาย
    - สามารถใช้งานร่วมกับ Git ได้
    - รองรับ Application Flatpak.
    - สามารถพัฒนาได้หลายภาษา
-<br>
+   <br>
+
    Command Line สำหรับติดตั้ง Gnome Builder
+
+   <br>
 
    ```bash
    sudo apt install gnome-builder
    ```
    <br>
+   
    ตัวอย่าง Gnome Builder :
+   
    <br>
    
    <img src='https://i.redd.it/4eq8430ko5971.png' width='1280' height='720'>
 
+<br>
+   
+2. Eclipse
+   <br>
+
+   เป็น Software Open Source ที่สามารถพัฒนาได้หลายภาษา เช่น Java, HTML, C และอื่นๆ โดยจุดเด่นของ Software นี้คือการที่มี plug-in ให้ใช้มากมาย ซึ่งอำนวยความสะดวกต่อ Code Developer เป็นอย่างมาก
+   <br>
+   
+   ข้อดีของ Eclipse :
+   <br>
+
+   - มี Eclipse Plug-in ช่วยในการพัฒนา Code
+   - ติดตั้งง่าย
+   - พัฒนาได้หลายๆ ภาษา
+   - ใช้งานร่วมกับ J2SDK ได้ทุก Version
+   <br>
+   
+   ขั้นตอนการติดตั้ง Eclipse บน Linux:
+   <br>
+   
+   1. เช็คว่ามี snap หรือไม่
+      <br>
+      
+      ```bash
+      snap version
+      ```
+      <br>
+   2. ถ้าไม่มี snap ให้ติดตั้งโดยคำสั่งนี้
+      <br>
+      
+      ```bash
+      apt install snapd -y
+      ```
+      <br>
+   3. เชื่อม /var/lib/snapd/snap กับ /snap ใน home directory หลังติดตั้งเสร็จ
+       <br>
+      
+       ```bash
+       ln -s /var/lib/snapd/snap /snap
+       ```
+       <br>
+   4. หลังจากนั้น ก็ update snap package ด้วยคำสั่งนี้
+       <br>
+      
+       ```bash
+       snap refresh
+       ```
+       <br>
+   5. ติดตั้ง Eclipse ผ่าน Snap Store
+       <br>
+      
+       ```bash
+       snap install --classic eclipse
+       ```
+       <br>
+   หรือสามารถติดตั้งโดย [Eclipse Installer](https://www.eclipse.org/downloads/packages/) ก็ได้
+   <br>
+   
+   ตัวอย่าง Eclipse :
+   <br>
+   
+   <img src='https://storage.googleapis.com/ubuntu-18/images/install-eclipse-ubuntu-18.jpg' width='1280' height='720'>
+
+   <br>
+   
 # Refference
 
 - IDE
   - [IDE on Linux](https://github.com/madbob/awesome-linux-dev?tab=readme-ov-file#editors-and-ide)
   - [IDE คืออะไร?](https://stackpython.medium.com/ide-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3-%E0%B9%81%E0%B8%99%E0%B8%B0%E0%B8%99%E0%B8%B3-ide-integrated-development-environment-%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%AB%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99-python-f03e4cc8d343)
+<br>
 
 - GNOME Builder
   - [What is GNOME Builder? & Command Line Download](https://ubunlog.com/th/gnome-builder-ide-proposito-general/#google_vignette)
+  - [ข้อดี Gnome Builder](https://th.linux-console.net/?p=8505)
   - [Download GNOME Builder](https://wiki.gnome.org/Apps/Builder/Downloads)
+  - [Gnome Builder Example Picture](https://i.redd.it/4eq8430ko5971.png)
+<br>
+
+- Eclipse
+  - [Eclipse คืออะไร?](https://www.aosoft.co.th/article/312/Eclipse-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3.html)
+  - [ประโยชน์ของ Eclipse](https://eclipse4sl.org/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%82%E0%B8%AD%E0%B8%87-eclipse-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%AA%E0%B8%B3%E0%B8%AB/)
+  - [How to Download](https://adamtheautomator.com/how-to-install-eclipse/#Installing_Eclipse_on_Linux)
+  - [Eclipse Installer](https://www.eclipse.org/downloads/packages/)
+  - [Eclipse Official Site](https://www.eclipse.org/)
+  - [Eclipse on Linux Example Picture](https://storage.googleapis.com/ubuntu-18/images/install-eclipse-ubuntu-18.jpg)
