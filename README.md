@@ -4,7 +4,7 @@ Computer Organization and Operating System Assignment (Chapter: Code Development
 
  - [112 Scripting](https://github.com/65070153-Pitchayadit-Wasinanon/CodeDevelopment-3/tree/f61a5e386f9b604cb31fbebcf1fd30f3ac5a3de6/112%20Scripting)
  - [Interpreter](https://github.com/matiassingers/awesome-readme)
- - [Compiler](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [124 Compiler](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
  - [133 Debugger](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
  - [153 DevTools](https://github.com/65070153-Pitchayadit-Wasinanon/CodeDevelopment-3/tree/50260a58c0e4eca12466662a79e89f31f181b091/153%20DevTools)
  - [Web Dev Tool](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
@@ -19,6 +19,6 @@ Code Development คือ กระบวนการที่ Code Developer �
 
 - 65070133 นายปวเรศ ตรีเพ็ชรไพศาล
 
-- 65070xxx นาย
+- 65070124 นายปฏิภาณ อรรคฮาดศรี
 
 - 65070153 นายพิชญดิฏฐ์ วศินานนท์
