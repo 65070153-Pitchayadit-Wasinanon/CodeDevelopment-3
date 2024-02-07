@@ -22,3 +22,5 @@ Script ป็นส่วนสำคัญสำหรับช่วยให�
    - Korn shell
    - Z shell
    <br>
+
+  <img src='https://i0.wp.com/saixiii.com/wp-content/uploads/2017/05/shell-kernel.png?resize=768%2C555&ssl=1' width='1280' height='720'>
