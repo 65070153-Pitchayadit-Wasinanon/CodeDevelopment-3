@@ -19,6 +19,12 @@ IDE หรือ Integrated development enviroment คือ Software สำเ�
    ```bash
    sudo apt install gnome-builder
    ```
+   <br>
+   ตัวอย่าง Gnome Builder :
+   <br>
+   
+   <img src='https://i.redd.it/4eq8430ko5971.png' width='1280' height='720'>
+
 # Refference
 
 - IDE
