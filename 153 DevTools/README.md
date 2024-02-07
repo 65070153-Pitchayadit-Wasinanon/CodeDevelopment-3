@@ -12,7 +12,7 @@ IDE หรือ Integrated development enviroment คือ Software สำเ�
    โดย IDE นี้จะเป็น Software Open source ที่ใช้พัฒนา Application หรือ Software ใน Desktop Environment ของ GNOME (GNU Object Model Environment).
    <br>
    
-   ซึ่งมีข้อดีดังนี้ :
+   ข้อดีของ GNOME Builder :
    <br>
    
    - มีคีย์ลัดที่สะดวกสะบาย
