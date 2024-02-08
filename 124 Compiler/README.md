@@ -9,4 +9,4 @@ Compiler คือโปรแกรมคอมพิวเตอร์ที�
 ![Lexical Analysis](https://binaryterms.com/wp-content/uploads/2021/11/Lexical-Analysis-in-Compiler.jpg)<br>
 ### Lexical Analyser ทำงานยังไง
 <a name="Lexical-Analyser"></a>
-`Input preprocessing`
+<strong>Input preprocessing</strong>
