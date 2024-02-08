@@ -57,6 +57,6 @@ x
 10
 5
 ```
-<br>
+
 ## Semantic Analysis (การวิเคราะห์เชิงความหมาย)
 <a name="Semantic-Analysis"></a>
