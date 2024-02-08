@@ -45,7 +45,6 @@ Parse Tree:<br>
       / \
      10  5
 ```
-<br>
 AST:<br>
 ```
 =
