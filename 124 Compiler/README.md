@@ -21,3 +21,6 @@ def factorial(n):
     else:
         return n * factorial(n - 1)
 ```
+Lexical Analysis จะแยกโค้ด Python นี้เป็นโทเค็นดังต่อไปนี้:<br>
+
+['def', 'factorial', '(', 'n', ')', ':', 'if', 'n', '==', '0', ':', 'return', '1', 'else', ':', 'return', 'n', '*', 'factorial', '(', 'n', '-', '1', ')']
