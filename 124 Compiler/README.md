@@ -5,6 +5,7 @@ Compiler คือโปรแกรมคอมพิวเตอร์ที�
 [Lexical Analysis](#Lexical-Analysis)<br>
 [Syntax Analysis](#Syntax-Analysis)<br>
 [Semantic Analysis](#Semantic-Analysis)<br>
+[Intermediate Code Generation](#IGC)<br>
 
 ## Lexical Analysis (การวิเคราะห์ตัวอักษร)
 <a name="Lexical-Analysis"></a>
@@ -105,4 +106,5 @@ public class Factorial {
         - ตรวจสอบการส่งและรับค่าของฟังก์ชัน factorial
   Compiler พบว่าโค้ดถูกต้องตามตรรกะ
 
-
+## Intermediate Code Generation (ICG)
+<a name="ICG"></a>
