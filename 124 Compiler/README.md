@@ -92,7 +92,7 @@ public class Factorial {
     }
 }
 ```
-ในการวิเคราะห์ Semantic Analysis ของฟังก์ชัน Factorial ในตัวอย่างโค้ด Java นี้ Java Compiler จะมองดังนี้:
+ในการวิเคราะห์ Semantic Analysis ของฟังก์ชัน Factorial ในตัวอย่างโค้ด Java นี้ Java Compiler จะมองดังนี้:<br>
 *** ตัวอย่าง ***
 * Type Checking Compiler จะตรวจสอบว่าชนิดข้อมูลของตัวแปร(variable)และนิพจน์(expression)สอดคล้องกันหรือไม่
     - n ถูกประกาศเป็น int และใช้กับการเปรียบเทียบ (< 0) และการคำนวณทางคณิตศาสตร์ (+, *)
