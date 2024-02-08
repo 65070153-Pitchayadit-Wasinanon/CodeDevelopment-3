@@ -1,4 +1,4 @@
-![image](https://github.com/65070153-Pitchayadit-Wasinanon/CodeDevelopment-3/assets/159148011/726c0467-4aeb-436b-b15a-c9863a8f0d22)# IDE
+# IDE
 
 IDE หรือ Integrated development enviroment คือ Software สำเร็จรูปที่มีเครื่องมืออำนวยความสะดวกให้ Code Developer ใช้ในการพัฒนา Software ซึ่งหลักๆ จะประกอบด้วย 3 อย่างนี้ คือ Source Code Editor, Build Automation Tools และ Debugger
 
