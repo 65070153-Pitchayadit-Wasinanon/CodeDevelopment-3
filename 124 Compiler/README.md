@@ -5,7 +5,7 @@ Compiler คือโปรแกรมคอมพิวเตอร์ที�
 [Lexical Analysis](#Lexical-Analysis)<br>
 [Syntax Analysis](#Syntax-Analysis)<br>
 [Semantic Analysis](#Semantic-Analysis)<br>
-[Intermediate Code Generation](#IGC)<br>
+[Intermediate Code Generation](#ICG)<br>
 
 ## Lexical Analysis (การวิเคราะห์ตัวอักษร)
 <a name="Lexical-Analysis"></a>
