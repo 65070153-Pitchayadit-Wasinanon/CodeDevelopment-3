@@ -73,6 +73,36 @@ x
 * วิเคราะห์การไหลของข้อมูล (Data Flow Analysis): วิเคราะห์ว่าข้อมูลไหลผ่านโค้ดอย่างไร ช่วยให้ Compiler
 * เพิ่มประสิทธิภาพโค้ด (Code Optimization): วิเคราะห์โค้ดเพื่อหาโอกาสในการเพิ่มประสิทธิภาพ เช่น
 ```
+public class Factorial {
 
+    public static int factorial(int n) {
+        if (n < 0) {
+            throw new IllegalArgumentException("n must be non-negative!");
+        } else if (n == 0) {
+            return 1;
+        } else {
+            return n * factorial(n - 1);
+        }
+    }
+
+    public static void main(String[] args) {
+        int n = 5;
+        int result = factorial(n);
+        System.out.println(n + "! = " + result);
+    }
+}
 ```
+ในการวิเคราะห์ Semantic Analysis ของฟังก์ชัน Factorial ในตัวอย่างโค้ด Java นี้ Java Compiler จะมองดังนี้:
+*** ตัวอย่าง ***
+* Type Checking Compiler จะตรวจสอบว่าชนิดข้อมูลของตัวแปร(variable)และนิพจน์(expression)สอดคล้องกันหรือไม่
+    - n ถูกประกาศเป็น int และใช้กับการเปรียบเทียบ (< 0) และการคำนวณทางคณิตศาสตร์ (+, *)
+    - ผลลัพธ์ของ factorial เป็น int
+    - การบวกและการคูณใช้กับ int เท่านั้น
+  Compiler พบว่าชนิดข้อมูลถูกต้องตามกฎภาษา Java
+* Validity Checking:
+        - Compiler จะตรวจสอบว่าการดำเนินการต่างๆถูกต้องตามตรรกะหรือไม่
+        - ตรวจสอบเงื่อนไข n < 0 กรณีอินพุตเป็นค่าลบ
+        - ตรวจสอบการส่งและรับค่าของฟังก์ชัน factorial
+  Compiler พบว่าโค้ดถูกต้องตามตรรกะ
+
 
