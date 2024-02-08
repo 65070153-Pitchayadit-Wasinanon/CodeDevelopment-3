@@ -4,6 +4,7 @@ Compiler คือโปรแกรมคอมพิวเตอร์ที�
 ![How does the compiler work](https://media.geeksforgeeks.org/wp-content/uploads/20200524115722/Capture3311.png)<br>
 [Lexical Analysis](#Lexical-Analysis)<br>
 [Syntax Analysis](#Syntax-Analysis)<br>
+[Semantic Analysis](#Semantic-Analysis)<br>
 
 ## Lexical Analysis (การวิเคราะห์ตัวอักษร)
 <a name="Lexical-Analysis"></a>
@@ -57,3 +58,5 @@ x
 5
 ```
 <br>
+## Semantic Analysis (การวิเคราะห์เชิงความหมาย)
+<a name="Semantic-Analysis"></a>
