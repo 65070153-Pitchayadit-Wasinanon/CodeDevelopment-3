@@ -142,6 +142,9 @@ Machine Independent code optimizer (MIO) หรือที่เรียกอ
         - การแปลงการคำนวณเป็นคำสั่งที่เหมาะสมกับสถาปัตยกรรมของเครื่อง (Loop unrolling)
 
 # References
-[การออกแบบ Compiler](https://www.geeksforgeeks.org/introduction-of-compiler-design/?ref=lbp)
-[การทำงานJVM](https://docs.oracle.com/en/java/java-components/index.html)
-[รายละเอียด GCC](https://gcc.gnu.org/)
+[การออกแบบ Compiler](https://www.geeksforgeeks.org/introduction-of-compiler-design/?ref=lbp)<br>
+[การทำงานJVM](https://docs.oracle.com/en/java/java-components/index.html)<br>
+[รายละเอียด GCC](https://gcc.gnu.org/)<br>
+[]()<br>
+[]()<br>
+[]()<br>
