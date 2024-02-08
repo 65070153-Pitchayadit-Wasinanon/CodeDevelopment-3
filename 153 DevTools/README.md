@@ -1,4 +1,4 @@
-# IDE
+![image](https://github.com/65070153-Pitchayadit-Wasinanon/CodeDevelopment-3/assets/159148011/726c0467-4aeb-436b-b15a-c9863a8f0d22)# IDE
 
 IDE หรือ Integrated development enviroment คือ Software สำเร็จรูปที่มีเครื่องมืออำนวยความสะดวกให้ Code Developer ใช้ในการพัฒนา Software ซึ่งหลักๆ จะประกอบด้วย 3 อย่างนี้ คือ Source Code Editor, Build Automation Tools และ Debugger
 
@@ -229,11 +229,100 @@ IDE หรือ Integrated development enviroment คือ Software สำเ�
 
    <img src='https://linux.how2shout.com/wp-content/uploads/2022/01/Apache-Launch-NetBeans-on-Debian-11.png' width='900' height='640'>
 
+<br>
 
+### 4. Visual Code Studio (VS Code)
+   <br>
+
+   Visual Code Studio เป็น IDE แบบ Open Source ที่สามารถใช้งานได้หลาย Platform เช่น Linux, Mac OS และ Windows โดยรองรับได้การพัฒนาหลายภาษา เช่น C, C++, CSS, HTML, Java, JavaScript และอื่นๆ
+
+   <br>
+
+   ข้อดีของ Visual Code Studio :
+   <br>
+
+   - รองรับหลายภาษา
+   - ใช้งานกับ Project ใหญ่ๆ ได้
+   - มีส่วนเสริม (Extension) อำนวยความสะดวกในการพัฒนา
+
+   <br>
+
+   การติดตั้งผ่าน Snap (Ubuntu):
+   <br>
+
+   1. ติดตั้ง package ของ VS Code
+      <br>
       
-      
-  
-   
+      ```bash
+      sudo snap install --classic code
+      ```
+      <br>
+
+   2. ตรวจสอบว่าติดตั้งเรียบร้อยหรือไหมด้วยคำสั่งนี้
+      <br>
+
+      ```bash
+      code --version
+      ```
+      <br>
+
+   การติดตั้งผ่าน APT (Ubuntu) :
+   <br>
+
+   1. Update Repository เพื่อสามารถติดตั้ง VS Code เวอร์ชั่นล่าสุด ด้วยคำสั่งนี้
+      <br>
+
+      ```bash
+      sudo apt update
+      ```
+      <br>
+
+   2. ติดตั้ง Package Dependencies
+      <br>
+
+      ```bash
+      sudo apt install software-properties-common apt-transport-https wget -y
+      ```
+      <br>
+
+   3. Import GPG Key เพื่อเช็คความถูกต้องของ Package ที่ลงมา
+      <br>
+
+      ```bash
+      wget -q https://packages.microsoft.com/keys/microsoft.asc -O- | sudo apt-key add -
+      ```
+      <br>
+
+   4. เพิ่ม Repository ของ VS Code
+      <br>
+
+      ```bash
+      sudo add-apt-repository "deb [arch=amd64] https://packages.microsoft.com/repos/vscode stable main"
+      ```
+      <br>
+
+   5. ติดตั้ง VS Code
+      <br>
+
+      ```bash
+      sudo apt install code
+      ```
+      <br>
+
+   6. ตรวจสอบการติดตั้ง VS Code ด้วยคำสั่งนี้
+      <br>
+
+      ```bash
+      code --version
+      ```
+      <br>
+
+   ตัวอย่าง Visual Studio Code (Ubuntu):
+   <br>
+
+   <img src='https://www.tecmint.com/wp-content/uploads/2020/05/Install-Visual-Studio-Code-in-Ubuntu.png' width='1000' height='640'>
+
+   <br>
    
 # Refference
 
@@ -264,4 +353,9 @@ IDE หรือ Integrated development enviroment คือ Software สำเ�
   - [How to Download (EN) & ข้อดีและประโยชน์ของ NetBeans](https://www.makeuseof.com/how-to-install-netbeans-on-linux/)
   - [How to Download (TH)](https://www.thaicreate.com/java/java-netbean-ide-windows.html)
   - [NetBeans IDE Example Picture](https://linux.how2shout.com/wp-content/uploads/2022/01/Apache-Launch-NetBeans-on-Debian-11.png)
+<br>
 
+- Visual Code Studio
+  - [What is Visual Code Studio & How to Download (EN)](https://phoenixnap.com/kb/install-vscode-ubuntu)
+  - [What is Visual Code Studio & How to Download ซึ่งมีวิธีของ Debian และ Linux Mint (TH)](https://th.linux-console.net/?p=1771)
+  - [Pros and Cons of Visual COde Studio (EN)](https://www.quora.com/What-are-the-pros-and-cons-of-Visual-Studio-Code-as-an-IDE)
