@@ -140,3 +140,8 @@ Machine Independent code optimizer (MIO) หรือที่เรียกอ
 * เพิ่มประสิทธิภาพการคำนวณ:
         - เช่น การใช้เทคนิคการคำนวณทางลัด (Strength reduction)
         - การแปลงการคำนวณเป็นคำสั่งที่เหมาะสมกับสถาปัตยกรรมของเครื่อง (Loop unrolling)
+
+# References
+[การออกแบบ Compiler](https://www.geeksforgeeks.org/introduction-of-compiler-design/?ref=lbp)
+[การทำงานJVM](https://docs.oracle.com/en/java/java-components/index.html)
+[รายละเอียด GCC](https://gcc.gnu.org/)
