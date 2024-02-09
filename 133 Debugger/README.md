@@ -91,7 +91,8 @@ Gdb คือ debugger สำหรับภาษา C และC++ ที่�
 `print list[0]@amount`
 
 # Reference
-<ul>
-  <li>[GNU Debugger](https://www.sciencedirect.com/topics/computer-science/gnu-debugger)</li>
-  <li>[GNU Tutorial](https://web.eecs.umich.edu/~sugih/pointers/summary.html)</li>
-</ul>
+
+-[GNU Debugger](https://www.sciencedirect.com/topics/computer-science/gnu-debugger)
+
+-[GNU Tutorial](https://web.eecs.umich.edu/~sugih/pointers/summary.html)
+
