@@ -90,3 +90,5 @@ Gdb คือ debugger สำหรับภาษา C และC++ ที่�
 
 `print list[0]@amount`
 
+#Reference
+
