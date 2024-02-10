@@ -15,11 +15,15 @@ Code Development คือ กระบวนการที่ Code Developer �
 
 ## Contributor
 
-- <table style='border: none'><tr><td><img src='https://cdn.discordapp.com/attachments/1040883264354791468/1205888788119691334/IMG_4904.png?ex=65da0273&is=65c78d73&hm=faefeea2cd3aa8713b8e21b561e8d01c4c9741e18b9d42e3c4a82338ab5462a4&' width='150' height='200'></td><td>65070112 นายนนทกร พุ่มลอยฟ้า</td></tr></table>65070112 นายนนทกร พุ่มลอยฟ้า
+<table style="border: none !important;"><tr style="border: none !important;"><td style="border: none !important;"><img src='https://cdn.discordapp.com/attachments/1040883264354791468/1205888788119691334/IMG_4904.png?ex=65da0273&is=65c78d73&hm=faefeea2cd3aa8713b8e21b561e8d01c4c9741e18b9d42e3c4a82338ab5462a4&' width='150' height='200'></td><td style="border: none !important;">65070112 นายนนทกร พุ่มลอยฟ้า</td></tr></table>65070112 นายนนทกร พุ่มลอยฟ้า
 <br>
-  
-<br>
-  
+
+<style>
+  table td {
+    border: none !important;
+  }
+</style>
+
 - 65070124 นายปฏิภาณ อรรคฮาดศรี
 
 <br>
