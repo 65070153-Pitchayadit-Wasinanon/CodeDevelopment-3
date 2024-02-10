@@ -2,7 +2,7 @@
 
 Computer Organization and Operating System Assignment (Chapter: Code Development, Sec: 3)
 
- - [Scripting](https://github.com/65070153-Pitchayadit-Wasinanon/CodeDevelopment-3/tree/6cf1b4a2318ea6d5e5f1d0203bad5c7fe5a09185/112%20Scripting)
+ - [Scripting](https://github.com/65070153-Pitchayadit-Wasinanon/CodeDevelopment-3/blob/6863c23789f8ab6f5a5eb545598043b1d2beea9a/Scripting/README.md)
  - [Interpreter](https://github.com/65070153-Pitchayadit-Wasinanon/CodeDevelopment-3/tree/d6a1b5d81d029b5b1722ca8843d1490f65a01b8c/Interpreter)
  - [Compiler](https://github.com/65070153-Pitchayadit-Wasinanon/CodeDevelopment-3/tree/1ebc73c3a96ce6d7adbf6ded61ef9956918bfd40/124%20Compiler)
  - [Debugger](https://github.com/65070153-Pitchayadit-Wasinanon/CodeDevelopment-3/tree/7ad60ef111b9f23e305224e6a8c09c45680ec8e3/133%20Debugger)
