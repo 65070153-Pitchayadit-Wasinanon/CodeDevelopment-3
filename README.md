@@ -5,10 +5,12 @@ Computer Organization and Operating System Assignment (Chapter: Code Development
  - [Scripting](https://github.com/65070153-Pitchayadit-Wasinanon/CodeDevelopment-3/blob/6863c23789f8ab6f5a5eb545598043b1d2beea9a/Scripting/README.md)
  - [Interpreter](https://github.com/65070153-Pitchayadit-Wasinanon/CodeDevelopment-3/tree/d6a1b5d81d029b5b1722ca8843d1490f65a01b8c/Interpreter)
  - [Compiler](https://github.com/65070153-Pitchayadit-Wasinanon/CodeDevelopment-3/blob/e3c35e3a05b31559419305b3a062adde959ba86f/Compiler/README.md)
- - [Debugger](https://github.com/65070153-Pitchayadit-Wasinanon/CodeDevelopment-3/tree/7ad60ef111b9f23e305224e6a8c09c45680ec8e3/133%20Debugger)
+ - [Debugger](https://github.com/65070153-Pitchayadit-Wasinanon/CodeDevelopment-3/blob/16cf47f81635ec277987f50c6f80b5573199cd93/Debugger/README.md)
  - [DevTools](https://github.com/65070153-Pitchayadit-Wasinanon/CodeDevelopment-3/tree/0d115af6c87f0556c5d481c69e24fb47ae48291a/153%20DevTools)
  - [Web Dev Tool](https://github.com/65070153-Pitchayadit-Wasinanon/CodeDevelopment-3/tree/60b70e542f9aee9686f7b4eebdb3ef4bc8dbc0c1/WebDevTool)
 ## What is Code Development?
+
+
 
 Code Development คือ กระบวนการที่ Code Developer ใช้เพื่อสร้าง เขียน และพัฒนา Code ให้ถึงบรรลุเป้าหมายของ Software นั้นๆ หรืออาจจะบรรลุเงื่อนไขที่ลูกค้าต้องการ โดยต้องคำนึงถึงหัวใจหลักของการเขียน Code ด้วย เช่น เขียนให้ Software มีประสิทธิภาพ, ลดการใช้ทรัพยากรที่ไม่จำเป็น, ลดขนาดของ Code ให้มีความกระชับหรือกะทัดรัดมากขึ้น และอื่นๆ อีกทั้ง Code Developer ยังต้องศึกษาภาษาที่ต้องใช้ในการพัฒนาพร้อมๆ กับเครื่องมือที่ใช้อีกด้วย
 
