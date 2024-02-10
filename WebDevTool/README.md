@@ -75,7 +75,7 @@
 
 <br>
    
-   <img src='https://owlhowto.com/content/images/2023/06/app-php-code-1.png?ezimgfmt=ng:webp/ngcb2' width='1280' height='640'>
+   <img src='https://owlhowto.com/content/images/2023/06/app-php-code-1.png?ezimgfmt=ng:webp/ngcb2' width='1000' height='300'>
 
 <br>		
 
