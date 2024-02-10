@@ -7,7 +7,7 @@ Computer Organization and Operating System Assignment (Chapter: Code Development
  - [124 Compiler](https://github.com/65070153-Pitchayadit-Wasinanon/CodeDevelopment-3/tree/48e345df65e66f62edff2b8d93987e26a9d371c2/124%20Compiler)
  - [133 Debugger](https://github.com/65070153-Pitchayadit-Wasinanon/CodeDevelopment-3/tree/01cadf20bab026958cbb0f79c225ebf3b6686b24/133%20Debugger)
  - [153 DevTools](https://github.com/65070153-Pitchayadit-Wasinanon/CodeDevelopment-3/tree/0d115af6c87f0556c5d481c69e24fb47ae48291a/153%20DevTools)
- - [Web Dev Tool](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [Web Dev Tool](https://github.com/65070153-Pitchayadit-Wasinanon/CodeDevelopment-3/tree/60b70e542f9aee9686f7b4eebdb3ef4bc8dbc0c1/WebDevTool)
 ## What is Code Development?
 
 Code Development คือ กระบวนการที่ Code Developer ใช้เพื่อสร้าง เขียน และพัฒนา Code ให้ถึงบรรลุเป้าหมายของ Software นั้นๆ หรืออาจจะบรรลุเงื่อนไขที่ลูกค้าต้องการ โดยต้องคำนึงถึงหัวใจหลักของการเขียน Code ด้วย เช่น เขียนให้ Software มีประสิทธิภาพ, ลดการใช้ทรัพยากรที่ไม่จำเป็น, ลดขนาดของ Code ให้มีความกระชับหรือกะทัดรัดมากขึ้น และอื่นๆ อีกทั้ง Code Developer ยังต้องศึกษาภาษาที่ต้องใช้ในการพัฒนาพร้อมๆ กับเครื่องมือที่ใช้อีกด้วย
