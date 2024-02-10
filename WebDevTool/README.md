@@ -41,7 +41,7 @@
 ผลลัพธ์
 <br>
    
-   <img src='https://owlhowto.com/content/images/2023/06/php-server-started.png?ezimgfmt=ng:webp/ngcb2' width='1280' height='640'>
+   <img src='https://owlhowto.com/content/images/2023/06/php-server-started.png?ezimgfmt=ng:webp/ngcb2' width='720' height='500'>
 
 <br>
 
