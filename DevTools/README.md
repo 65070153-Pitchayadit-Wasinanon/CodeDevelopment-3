@@ -339,7 +339,6 @@ Compiler หรือ คอมไพรเลอร์ เป็น Software �
   <br>
 
   ### ข้อดีของ GCC :
-  <br>
 
   - เป็น Free Software
   - มี Bugs น้อย
@@ -347,8 +346,7 @@ Compiler หรือ คอมไพรเลอร์ เป็น Software �
   <br>
 
   ### วิธีติดตั้ง :
-  <br>
-  
+
   Debian, Ubuntu และ Linux Mint
 
   ```bash
@@ -362,7 +360,7 @@ Compiler หรือ คอมไพรเลอร์ เป็น Software �
   ```
   <br>
   
-  ตัวอย่าง GCC :
+  ### ตัวอย่าง GCC :
   <br>
   
   <img src='https://linuxconfig.org/wp-content/uploads/2022/03/00-how-to-install-gcc-the-c-compiler-on-ubuntu-22-04-lts-jammy-jellyfish-linux.png'>
@@ -410,3 +408,4 @@ Compiler หรือ คอมไพรเลอร์ เป็น Software �
   - [Compiler on Linux](https://gcc.gnu.org/)
   - [How to Download GCC](https://www.incredibuild.com/integrations/gcc)
   - [GCC on Linux Pros and Cons](https://www.quora.com/What-are-the-advantages-and-disadvantages-or-limitations-of-using-one-instead-of-the-other-compiler-in-C-and-C-Linux-i-e-GCC-or-G)
+  - [GCC on Linux Example Picture](https://linuxconfig.org/wp-content/uploads/2022/03/00-how-to-install-gcc-the-c-compiler-on-ubuntu-22-04-lts-jammy-jellyfish-linux.png)
