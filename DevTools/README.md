@@ -1,4 +1,4 @@
-![image](https://github.com/65070153-Pitchayadit-Wasinanon/CodeDevelopment-3/assets/159148011/cb7e8331-54d7-4488-9f2e-9e4eccafd166)# IDE
+# IDE
 
 IDE หรือ Integrated development enviroment คือ Software สำเร็จรูปที่มีเครื่องมืออำนวยความสะดวกให้ Code Developer ใช้ในการพัฒนา Software ซึ่งหลักๆ จะประกอบด้วย 3 อย่างนี้ คือ Source Code Editor, Build Automation Tools และ Debugger
 
@@ -361,7 +361,10 @@ Compiler หรือ คอมไพรเลอร์ เป็น Software �
   yum group install 'Development Tools'
   ```
   <br>
-
+  
+  ตัวอย่าง GCC :
+  <br>
+  
   <img src='https://linuxconfig.org/wp-content/uploads/2022/03/00-how-to-install-gcc-the-c-compiler-on-ubuntu-22-04-lts-jammy-jellyfish-linux.png'>
   
 # Refference
