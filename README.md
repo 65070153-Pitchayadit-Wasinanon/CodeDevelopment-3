@@ -15,21 +15,21 @@ Code Development คือ กระบวนการที่ Code Developer �
 
 ## Contributor
 
-<table style="border: none !important;"><tr style="border: none !important;"><td style="border: none !important;"><img src='https://cdn.discordapp.com/attachments/1040883264354791468/1205888788119691334/IMG_4904.png?ex=65da0273&is=65c78d73&hm=faefeea2cd3aa8713b8e21b561e8d01c4c9741e18b9d42e3c4a82338ab5462a4&' width='150' height='200'></td><td style="border: none !important;">65070112 นายนนทกร พุ่มลอยฟ้า</td></tr></table>65070112 นายนนทกร พุ่มลอยฟ้า
-<br>
-
-<style>
-  table td {
-    border: none !important;
-  }
-</style>
-
-- 65070124 นายปฏิภาณ อรรคฮาดศรี
-
-<br>
-  
-- 65070133 นายปวเรศ ตรีเพ็ชรไพศาล
-  
-<br>
-  
-- 65070153 นายพิชญดิฏฐ์ วศินานนท์
+<table style="border: none!important;">
+ <tr style="border: none !important;">
+  <td style="border:none!important;"><img src='https://cdn.discordapp.com/attachments/1040883264354791468/1205888788119691334/IMG_4904.png?ex=65da0273&is=65c78d73&hm=faefeea2cd3aa8713b8e21b561e8d01c4c9741e18b9d42e3c4a82338ab5462a4&' width='150' height='200'></td>
+  <td style="border:none!important;">65070112 นายนนทกร พุ่มลอยฟ้า</td>
+ </tr>
+ <tr style="border: none !important;">
+  <td style="border:none!important;"><img src='https://cdn.discordapp.com/attachments/1040883264354791468/1205888788119691334/IMG_4904.png?ex=65da0273&is=65c78d73&hm=faefeea2cd3aa8713b8e21b561e8d01c4c9741e18b9d42e3c4a82338ab5462a4&' width='150' height='200'></td>
+  <td style="border:none!important;">65070124 นายปฏิภาณ อรรคฮาดศรี</td>
+ </tr>
+ <tr style="border: none !important;">
+  <td style="border:none!important;"><img src='https://media.discordapp.net/attachments/1040883264354791468/1205889536647889007/Untitled_Artwork.jpg?ex=65da0325&is=65c78e25&hm=5cdce89668013be801b6f54097fe1c715690686fedb018f4338dc3cc0ad48f3f&=&format=webp&width=510&height=670' width='150' height='200'></td>
+  <td style="border:none!important;">65070133 นายปวเรศ ตรีเพ็ชรไพศาล</td>
+ </tr>
+ <tr style="border: none !important;">
+  <td style="border:none!important;"><img src='https://cdn.discordapp.com/attachments/1040883264354791468/1205899049778290749/DSC_0051.jpg?ex=65da0c01&is=65c79701&hm=e8141340b822c5d6acfca00d3feec50f21f893b9c5956321fa5d23ee51a5b06f&' width='150' height='190'></td>
+  <td style="border:none!important;">65070153 นายพิชญดิฏฐ์ วศินานนท์</td>
+ </tr>
+</table>
