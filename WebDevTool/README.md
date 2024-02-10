@@ -18,47 +18,79 @@
 
 
 
-วิธีติดตั้ง php บน linux
+## วิธีติดตั้ง php บน linux
 
 ติดตั้ง php
+ <br>
 
-sudo apt install php คือคำสั่งติดตั้ง php
+   ```bash
+   sudo apt install php คือคำสั่งติดตั้ง php
+   ```
+   <br>
 
 ตรวจสอบการติดตั้ง php
+ <br>
 
-		php -S localhost:8080
+   ```bash
+   php -S localhost:8080
+   ```
+   <br>
 
-		คำสั่งนี้คือคำสั่ง ที่สร้าง localhost ที่พอร์ด 8080 ทำให้สามารถ ทดสอบและดูผลลัพธ์ได้ใน http://localhost:8080 และถ้ามัน run คำสั่งสำเร็จนั้นก็แปลว่าติดตั้ง php และ เพราะถ้าไม่สำเร็จจะไม่สามารถใช้คำสั่งได้ 
+คำสั่งนี้คือคำสั่ง ที่สร้าง localhost ที่พอร์ด 8080 ทำให้สามารถ ทดสอบและดูผลลัพธ์ได้ใน http://localhost:8080 และถ้ามัน run คำสั่งสำเร็จนั้นก็แปลว่าติดตั้ง php และ เพราะถ้าไม่สำเร็จจะไม่สามารถใช้คำสั่งได้ 
 
 ผลลัพธ์
+<br>
+   
+   <img src='https://owlhowto.com/content/images/2023/06/php-server-started.png?ezimgfmt=ng:webp/ngcb2' width='1280' height='640'>
 
-https://owlhowto.com/content/images/2023/06/php-server-started.png?ezimgfmt=ng:webp/ngcb2
+<br>
 
+## สร้าง script php
 
-สร้าง script php
+3.1 สร้าง directory ด้วยคำสั่ง
+   <br>
 
-		3.1 สร้าง directory ด้วยคำสั่ง
+   ```bash
+   mkdir ชื่อของdirectoryที่จะสร้าง
+   ```
+   <br>
+   
+3.2  เข้าไปที่ directory ที่สร้างด้วยคำสั่ง
+ <br>
 
-			mkdir ชื่อของdirectoryที่จะสร้าง
+   ```bash
+   cd ชื่อของdirectoryที่สร้างมา
+   ```
+   <br>
 
-		3.2  เข้าไปที่ directory ที่สร้างด้วยคำสั่ง
+3.3 สร้างไฟล์ php
+ <br>
 
-			cd ชื่อของdirectoryที่สร้างมา
+   ```bash
+   sudo nano ชื่อไฟล์.php
+   ```
+   <br>
 
-		3.3 สร้างไฟล์ php
+จากนั้นจะสามารถเขียน script ตามตัวอย่างได้เลย
 
-			sudo nano ชื่อไฟล์.php
+<br>
+   
+   <img src='https://owlhowto.com/content/images/2023/06/app-php-code-1.png?ezimgfmt=ng:webp/ngcb2' width='1280' height='640'>
 
-		จากนั้นจะสามารถเขียน script ได้เลยตัวอย่าง
-
-	
-	https://owlhowto.com/content/images/2023/06/app-php-code-1.png?ezimgfmt=ng:webp/ngcb2	
+<br>		
 
 จากนั้นกด ctrl + x เพื่อออก และกด Y เพื่อบันทึก จากนั้นกด enter
 
 
-วิธีการเรียกใช้ php
+## วิธีการเรียกใช้ php
 
-		php -S localhost:8080 ชื่อไฟล์ที่ตั้งไว้.php
+สามารถเรียกใช้หรือดูผลลัพธ์ได้โดย
+
+<br>
+
+   ```bash
+   php -S localhost:8080 ชื่อไฟล์ที่ตั้งไว้.php
+   ```
+   <br>
 
 
