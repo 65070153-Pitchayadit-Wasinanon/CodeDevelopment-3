@@ -7,7 +7,7 @@ Computer Organization and Operating System Assignment (Chapter: Code Development
  - [Compiler](https://github.com/65070153-Pitchayadit-Wasinanon/CodeDevelopment-3/blob/e3c35e3a05b31559419305b3a062adde959ba86f/Compiler/README.md)
  - [Debugger](https://github.com/65070153-Pitchayadit-Wasinanon/CodeDevelopment-3/blob/16cf47f81635ec277987f50c6f80b5573199cd93/Debugger/README.md)
  - [DevTools](https://github.com/65070153-Pitchayadit-Wasinanon/CodeDevelopment-3/blob/ed032004d722523bf18c465de8a24629dac5a756/DevTools/README.md)
- - [Web Dev Tool](https://github.com/65070153-Pitchayadit-Wasinanon/CodeDevelopment-3/tree/60b70e542f9aee9686f7b4eebdb3ef4bc8dbc0c1/WebDevTool)
+ - [Web Dev Tool]([https://github.com/65070153-Pitchayadit-Wasinanon/CodeDevelopment-3/tree/60b70e542f9aee9686f7b4eebdb3ef4bc8dbc0c1/WebDevTool](https://github.com/65070153-Pitchayadit-Wasinanon/CodeDevelopment-3/tree/bbc4dc8db3266f68c72731ca7d9fe4e2d2372fb8/WebDevTool))
 ## What is Code Development?
 
 
