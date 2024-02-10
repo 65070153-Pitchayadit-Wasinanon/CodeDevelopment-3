@@ -5,7 +5,7 @@ Computer Organization and Operating System Assignment (Chapter: Code Development
  - [112 Scripting](https://github.com/65070153-Pitchayadit-Wasinanon/CodeDevelopment-3/tree/6cf1b4a2318ea6d5e5f1d0203bad5c7fe5a09185/112%20Scripting)
  - [Interpreter](https://github.com/65070153-Pitchayadit-Wasinanon/CodeDevelopment-3/tree/d6a1b5d81d029b5b1722ca8843d1490f65a01b8c/Interpreter)
  - [124 Compiler](https://github.com/65070153-Pitchayadit-Wasinanon/CodeDevelopment-3/tree/1ebc73c3a96ce6d7adbf6ded61ef9956918bfd40/124%20Compiler)
- - [133 Debugger](https://github.com/65070153-Pitchayadit-Wasinanon/CodeDevelopment-3/tree/96197c0b0b38d7c22979226bec1ef487056d4407/133%20Debugger)
+ - [133 Debugger](https://github.com/65070153-Pitchayadit-Wasinanon/CodeDevelopment-3/tree/7ad60ef111b9f23e305224e6a8c09c45680ec8e3/133%20Debugger)
  - [153 DevTools](https://github.com/65070153-Pitchayadit-Wasinanon/CodeDevelopment-3/tree/0d115af6c87f0556c5d481c69e24fb47ae48291a/153%20DevTools)
  - [Web Dev Tool](https://github.com/65070153-Pitchayadit-Wasinanon/CodeDevelopment-3/tree/60b70e542f9aee9686f7b4eebdb3ef4bc8dbc0c1/WebDevTool)
 ## What is Code Development?
