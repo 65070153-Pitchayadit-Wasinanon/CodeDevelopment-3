@@ -93,4 +93,13 @@
    ```
    <br>
 
+## Refference
+```bash
+   https://www.zend.com/blog/installing-php-linux
+   https://www.geeksforgeeks.org/how-to-install-php-on-linux/
+   https://ngangasn.com/web-development-tools-that-are-super-helpful-for-linux-web-developers/?expand_article=1
+   https://owlhowto.com/how-to-run-php-script-on-localhost-on-linux/
+   ```
+   <br>
+  
 
