@@ -1,4 +1,4 @@
-# IDE
+![image](https://github.com/65070153-Pitchayadit-Wasinanon/CodeDevelopment-3/assets/159148011/cb7e8331-54d7-4488-9f2e-9e4eccafd166)# IDE
 
 IDE หรือ Integrated development enviroment คือ Software สำเร็จรูปที่มีเครื่องมืออำนวยความสะดวกให้ Code Developer ใช้ในการพัฒนา Software ซึ่งหลักๆ จะประกอบด้วย 3 อย่างนี้ คือ Source Code Editor, Build Automation Tools และ Debugger
 
@@ -348,9 +348,21 @@ Compiler หรือ คอมไพรเลอร์ เป็น Software �
 
   ### วิธีติดตั้ง :
   <br>
-
   
+  Debian, Ubuntu และ Linux Mint
 
+  ```bash
+  apt install build-essentials
+  ```
+
+  RedHat Enterprise Linux, Fedora, CentOS, และ Amazon Linux
+
+  ```bash
+  yum group install 'Development Tools'
+  ```
+  <br>
+
+  <img src='https://linuxconfig.org/wp-content/uploads/2022/03/00-how-to-install-gcc-the-c-compiler-on-ubuntu-22-04-lts-jammy-jellyfish-linux.png'>
   
 # Refference
 
@@ -387,3 +399,11 @@ Compiler หรือ คอมไพรเลอร์ เป็น Software �
   - [What is Visual Code Studio & How to Download (EN)](https://phoenixnap.com/kb/install-vscode-ubuntu)
   - [What is Visual Code Studio & How to Download ซึ่งมีวิธีของ Debian และ Linux Mint (TH)](https://th.linux-console.net/?p=1771)
   - [Pros and Cons of Visual COde Studio (EN)](https://www.quora.com/What-are-the-pros-and-cons-of-Visual-Studio-Code-as-an-IDE)
+<br>
+
+- Compiler
+  - [What is Compiler? (TH)](https://www.mindphp.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD/73-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3/3596-compiler-%E0%B8%84%E0%B8%AD%E0%B8%A1%E0%B9%84%E0%B8%9E%E0%B8%A3%E0%B9%80%E0%B8%A5%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3.html)
+  - [What is Compiler (EN)](https://www.techtarget.com/whatis/definition/compiler)
+  - [Compiler on Linux](https://gcc.gnu.org/)
+  - [How to Download GCC](https://www.incredibuild.com/integrations/gcc)
+  - [GCC on Linux Pros and Cons](https://www.quora.com/What-are-the-advantages-and-disadvantages-or-limitations-of-using-one-instead-of-the-other-compiler-in-C-and-C-Linux-i-e-GCC-or-G)
