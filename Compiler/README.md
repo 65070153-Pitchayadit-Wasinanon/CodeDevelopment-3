@@ -33,7 +33,16 @@ Lexical Analysis จะแยกโค้ด C นี้เป็นโทเค
 
 ['int'  'main'  '('  ')'  '{'  'int'  'a' ','  'b'  ';'
  'a'  '='  '10'  ';' 'return'  '0'  ';'  '}]
- 
+
+### ไวยากรณ์กำกวม (Ambiguous Grammar)
+ลักษณะของภาษาใน lexical analysis อาจทำให้เกิดความคลุมเครือในการแยกวิเคราะห์สัญลักษณ์ (token)<br>
+ตัวอย่าง<br>
+<ul>
+  <li>"123" : สามารถตีความได้ทั้งเลขจำนวนเต็ม (integer) หรือ เลขทศนิยม (floating-point)</li>
+  <li>"++" : สามารถตีความได้ทั้ง operator เพิ่มทีละ 1 หรือ operator เพิ่มทีละ 2</li>
+  <li>if" : สามารถตีความได้ทั้ง keyword ของภาษาโปรแกรม หรือ conjunctions</li>
+</ul>
+
 <a name="Syntax-Analysis"></a>
 ## Syntax Analysis (การวิเคราะห์ไวยากรณ์)
 Syntax Analysis หรือ Parsing จะทำหน้าที่ ตรวจสอบ ว่า โครงสร้างของโค้ด นั้น ถูกต้องตามกฎไวยากรณ์ของภาษาโปรแกรม หรือไม่ โดยใช้ parse tree หรือ abstract syntax tree (AST) แสดงโครงสร้างของโค้ด
