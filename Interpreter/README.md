@@ -60,7 +60,7 @@ Interpreter นี้จะใช้ตัว pointer แทนไบต์ ไ�
 </li>
 </ol>
 
-#ตัวอย่สงการทำงานของ Python Interpreter
+#ตัวอย่างการทำงานของ Python Interpreter
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20230809115142/Internal-working-of-Python-(1).gif"><br>
 
 
