@@ -60,6 +60,11 @@ Interpreter นี้จะใช้ตัว pointer แทนไบต์ ไ�
 </li>
 </ol>
 
+#ตัวอย่สงการทำงานของ Python Interpreter
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20230809115142/Internal-working-of-Python-(1).gif"><br>
+
+
+
 Reference
 <ul>
 <li>https://www.geeksforgeeks.org/language-processors-assembler-compiler-and-interpreter/</li>
